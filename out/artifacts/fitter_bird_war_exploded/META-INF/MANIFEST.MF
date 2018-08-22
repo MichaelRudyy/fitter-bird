@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: fitter-bird
-Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: m.rudyi
-Implementation-Vendor-Id: com.fitter
-Created-By: IntelliJ IDEA
-Build-Jdk: 1.8.0_171
-Main-Class: ${start-class}
-
